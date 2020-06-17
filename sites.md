@@ -1,3 +1,7 @@
+Guides
+https://www.switchtop.com
+
+Shops
 https://www.gboards.ca
 https://zealpc.net
 https://dailyclack.com
