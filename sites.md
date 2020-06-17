@@ -6,3 +6,4 @@ https://zealpc.net
 https://dailyclack.com
 https://www.originativeco.com
 https://novelkeys.xyz
+https://deskthority.net/wiki/Main_Page
