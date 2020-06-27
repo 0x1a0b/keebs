@@ -8,3 +8,5 @@ https://www.originativeco.com
 https://novelkeys.xyz
 https://deskthority.net/wiki/Main_Page
 https://deskthority.net/viewtopic.php?t=15133
+https://ilumkb.com/
+https://mykeyboard.eu
