@@ -1,32 +1,29 @@
 
-https://www.switchtop.com
-https://www.dygma.com/mechanical-switches/the-ultimate-guide-to-mechanical-keyboard-switches-for-2019/
-https://www.gboards.ca
-https://zealpc.net
-https://dailyclack.com
-https://www.originativeco.com
-https://novelkeys.xyz
-https://deskthority.net/wiki/Main_Page
-https://deskthority.net/viewtopic.php?t=15133
-https://ilumkb.com/
-https://mykeyboard.eu
-https://www.rgbkb.net/
-https://www.alexotos.com/the-tofu-keyboard/
-https://www.youtube.com/watch?v=cqayXajcmpU
-https://68keys.io
-https://keeb.io
-https://lanoc.org/review/input-devices/7243-1up-keyboards-pok3r-sleeve?start=3
-
-https://github.com/coarse/Modern-Keyboard-PCB-Guide
-https://github.com/help-14/mechanical-keyboard
-https://github.com/ruiqimao/keyboard-pcb-guide
-https://pcbshopper.com
-
-http://builder.swillkb.com
-https://www.theverge.com/2019/6/21/18683728/mechanical-keyboard-diy-building-guide-how-to-75-percent-pcb-case-zealio-keyswitches-zealpc
-
-https://mechboards.co.uk
-https://www.1upkeyboards.com
-https://candykeys.com
-https://easyeda.com
-https://github.com/AcheronProject/ArcticPCB
+- https://www.switchtop.com
+- https://www.dygma.com/mechanical-switches/the-ultimate-guide-to-mechanical-keyboard-switches-for-2019/
+- https://www.gboards.ca
+- https://zealpc.net
+- https://dailyclack.com
+- https://www.originativeco.com
+- https://novelkeys.xyz
+- https://deskthority.net/wiki/Main_Page
+- https://deskthority.net/viewtopic.php?t=15133
+- https://ilumkb.com/
+- https://mykeyboard.eu
+- https://www.rgbkb.net/
+- https://www.alexotos.com/the-tofu-keyboard/
+- https://www.youtube.com/watch?v=cqayXajcmpU
+- https://68keys.io
+- https://keeb.io
+- https://lanoc.org/review/input-devices/7243-1up-keyboards-pok3r-sleeve?start=3
+- https://github.com/coarse/Modern-Keyboard-PCB-Guide
+- https://github.com/help-14/mechanical-keyboard
+- https://github.com/ruiqimao/keyboard-pcb-guide
+- https://pcbshopper.com
+- http://builder.swillkb.com
+- https://www.theverge.com/2019/6/21/18683728/mechanical-keyboard-diy-building-guide-how-to-75-percent-pcb-case-zealio-keyswitches-zealpc
+- https://mechboards.co.uk
+- https://www.1upkeyboards.com
+- https://candykeys.com
+- https://easyeda.com
+- https://github.com/AcheronProject/ArcticPCB
