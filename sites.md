@@ -33,3 +33,5 @@
 - https://cannonkeys.com/collections/satisfaction-75
 - https://clueboard.co/parts?category=PCBs
 - https://matt3o.com/hand-wiring-a-custom-keyboard/
+- https://www.instructables.com/id/How-to-Make-a-Arduino-HID-Keyboard/
+
