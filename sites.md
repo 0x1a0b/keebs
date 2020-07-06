@@ -10,6 +10,7 @@
 - https://deskthority.net/viewtopic.php?t=15133
 - https://ilumkb.com/
 - https://mykeyboard.eu
+- https://mechboards.co.uk/shop/kits/plaid-kit/#switches
 - https://www.rgbkb.net/
 - https://www.alexotos.com/the-tofu-keyboard/
 - https://www.youtube.com/watch?v=cqayXajcmpU
@@ -28,3 +29,6 @@
 - https://easyeda.com
 - https://github.com/AcheronProject/ArcticPCB
 - https://oshpark.com/shared_projects/PogDjaIS
+- https://shop.norbauer.com
+- https://cannonkeys.com/collections/satisfaction-75
+- https://clueboard.co/parts?category=PCBs
