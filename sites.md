@@ -32,3 +32,4 @@
 - https://shop.norbauer.com
 - https://cannonkeys.com/collections/satisfaction-75
 - https://clueboard.co/parts?category=PCBs
+- https://matt3o.com/hand-wiring-a-custom-keyboard/
