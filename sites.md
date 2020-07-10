@@ -34,4 +34,9 @@
 - https://clueboard.co/parts?category=PCBs
 - https://matt3o.com/hand-wiring-a-custom-keyboard/
 - https://www.instructables.com/id/How-to-Make-a-Arduino-HID-Keyboard/
-
+- http://www.keyboard-layout-editor.com
+- https://kbfirmware.com
+- https://martinsosic.com/mechanical/keyboards/2019/10/17/building-my-first-keyboard.html
+- http://builder.swillkb.com
+- https://www.cftkb.com/shop
+- https://pariahkb.xyz
