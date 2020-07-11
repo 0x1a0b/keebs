@@ -45,3 +45,4 @@
 - https://rama.works
 - https://alltrons.com
 - http://macropad.co/about/
+- https://meckeyalpha.com
