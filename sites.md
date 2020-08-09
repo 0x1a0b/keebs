@@ -49,4 +49,4 @@
 - https://www.pikatea.com
 - https://keyboard.university
 - https://click-clack.cc
-
+- https://mekanisktastatur.no
